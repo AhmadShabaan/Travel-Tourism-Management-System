@@ -1,0 +1,2 @@
+Country: Russia, Hotel: 7 Star Hotel: Russia Palace - Price per day: $500, Rooms: 1, Days: 2, Total Cost: $1000
+Country: Australia, Hotel: 5 Star Hotel: Australia Grand - Price per day: $200, Rooms: 2, Days: 3, Total Cost: $1200

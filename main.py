@@ -3,7 +3,7 @@ def greet(name):
 
 
 def assignment_status():
-    return "Feature branch is working correctly."
+    return "Version A from conflict-a."
 
 
 if __name__ == "__main__":

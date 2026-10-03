@@ -3,7 +3,7 @@ def greet(name):
 
 
 def assignment_status():
-    return "Version B from conflict-b."
+    return "Conflict resolved: Version A and Version B were reviewed."
 
 
 if __name__ == "__main__":
